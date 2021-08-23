@@ -1,6 +1,6 @@
-#CricApp - A Case Study
+# CricApp - A Case Study
 
-##Problem Statement
+## Problem Statement
 
 Cricket is one of international sport and it is widely popular in India.
 
@@ -10,7 +10,7 @@ Build a system to find current cricket matches, bookmark favourite matches and r
 
 Envisioned System
 
-##The application needs to fetch cricket matches from the following API.
+## The application needs to fetch cricket matches from the following API.
 
 https://www.cricapi.com/
 
@@ -24,7 +24,7 @@ https://www.cricapi.com/how-to-use/match-api.aspx
 
 https://www.cricapi.com/how-to-use/scores-api.aspx
 
-##The functional requirements are
+## The functional requirements are
 
 · User can view current or old cricket matches
 
@@ -36,6 +36,6 @@ https://www.cricapi.com/how-to-use/scores-api.aspx
 
 · Authorized User can add a match to favourite list and should be able to view favourite matches.
 
-· A recommendation engine should be able to store all the unique favourite matches from all the users and maintain counter for number of users added a particular match into favourite list.
+· A recommendation engine should be able to store all the unique favourite matches from all the users and maintain counter for number of users added a particular match into    favourite list.
 
 · An option to view recommended matches should be available on frontend.
